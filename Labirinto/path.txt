@@ -1,0 +1,100 @@
+A   x    xx           x      xx     x x         x    x                         xx     x  x xx       
+o   x      xx   x    x                       x   xx x    x   x    xx      x x x   x     x       x   
+o     x x  x   x                x   x        x  x  x xx x xx x            x   x          x x   xx x 
+o   xxx    x    x  x      x x     x   xxx       x   x   xx     x             x     x x x            
+o  x  x      x    x x  x     x     xx x  x    x       xx           x        x        x    x         
+ooooo   x        x  x         x    x           xx    xx x       xx  xxx  x  x      x  x x   x       
+  xxo         x   x     x x  x x    xx x    x  x x   x x   x     x x   xx         x       x  x     x
+ x  o    x           x    x    x      x   xx   x       x        x  x         x     x     x    x    x
+x   o     x            x    x      x    x  x      x       x   xxx  x          x    xx x        x  xx
+  x ooo       x   x      x    x x      x xx         x x      x x x     x x  x x   x   xxxx     x x  
+     xo     x   x xx xx x                 x    xx         xxx           x  x x  x x    x    x       
+    x o  x   x           x            xxx   x           xxx          x   x     x  x        x x      
+x xx xoo  x   xx x  xx     x  x        x  x       x    x       x xx           x  x   x              
+xx    xo x         x       x          x x      x    x     xx                   xx x   x  x xx     x 
+       oxx               x   xx      x x     xx        x      x           xxx     x            x  x 
+ xx  x o     x       x  x     xx   xx        x   x           x   xx       x              x       x  
+   x   o      x  xxx  x      xxx x    x  x           x        x        x x x         x   x  x x     
+  x    ox  x     x  xxxx xx   x  x  x x x x   x     x          xx        x    xx x         x x  x   
+ xx   xoo x    x           x x  x x      x   x          x      x x x x   x    xxx xx      xx        
+      xxo x    x x x x            x      xxx x       x                 x x   xx  xxx      x  x     x
+ x  x   o   x               x  x xx x       xx         x  x x            x      x x    x   x        
+x x     oo  xx                     x    xx           x    x  x        x   x       x    xx xxx       
+xx   xx xo      xx     xx         x       x         x      xx  x xx               x              x  
+    x    oox        xx  x    x           x x     x x     x   xx   x       x          x x    x     x 
+   xxx  xxo         x  xx        xx                x     x   x           x    x      x xxx   x      
+          oo     x x    xx       xx   xx    x    xx       x   xx   x         x     x     x   x      
+        xxxo    x  x        x  xx              x        xx         x   x                   x        
+    xx   x oo          x             x x   x  x   x x                  x  x    x  x    x     x   xx 
+         x xooo    xx     xx   xxx    xx       xx   x        xx            x      x x   x xx    x xx
+ x           xoooox  x  xx    x    x x xx    xx    x            xx          x   x x x xx x         x
+  xx    x  x x xxo x       x        x x xx    x     xx x   x             x x        xxx           x 
+ x  x x     xx x ox xx              x x   x   x         xxxx xx  x            x x            x    x 
+    x       x x  o        x      x x     x            xxx     x x xx x xx  x                x   x   
+  x    x    x x  o     x        x      x  x     x    x   x     x      x  x x     x x x              
+x    x        x xo     x x xx      xx   x              x xx  xx         xx  x     xx x   xx x  x    
+    x  x        xo      x       xxxx  xx x     x   x  x  x xx      x        x x           x x xx    
+   x x x x x     o       x  x xxx  x                x  x                x       x       x         x 
+  x              o        xx  x      xx    x              xx    x  xxx     xx    x         x x  xx  
+ x         x     oo      xxx  x x  x    x  x  x           x      x     x   xxx        x   x   x     
+  x      x    x  xo x x x     x        x   x    xx           x     x x   x       x  xx     x        
+      x           o      xx x        x x  x  x   x         xx        x xx     xx            xxx     
+xx   xx  x  x  x  o      x   x      xx     x x  x         x    x  x     x               x xx   x  x 
+   x   x   x xx x o      x      x    x             x         x      x          xx  x   xx x     x xx
+ x      xxx       o     x         x   x    x             x x          x              x  xx x   x x  
+       x    x   x o            x x   xxx  x  x   x               x xx xx    x x x   x  x x xx x   xx
+         x  x x   o                                   x x x      x      x   x             x x x   x 
+ x  xxx  x xxxx   o       x                     x               x   x    x  x     x         x       
+   xx             o   x  xxx x  x      x x  x            x     x      x            x  x             
+  xxx   x x     x o   x     x        x     xx             x x       x     x   xx       x x x xx    x
+ x    x        xx o   x          x        x        xxx     x                     xx    x       x    
+       x xx  x   xoo x  xx      x   xx  x      x               xxx  x  x                     x    xx
+x   xxxx   xx     xo             x  xx              x         xx    x x    x       x  x x   x    x  
+      x            o x           x x   x     x     xx     x  x     x      x    x     x        xx x  
+ x                 o   xxx        x           x  xx    x    x        x         x   x x  xxx    x  x 
+ xx x           xx o   x    x            x   x   x        x   x x        x                  xx x    
+   xx              ox       x xx    x       x      x        x   x       xx         xx x          xx 
+ x  x             xo      x      xx        x x           x      x       xx  x       xxx           xx
+x  x    x x    x   o  x   x xx  x x   x                    x    x     xx     x    x              x  
+ x          x    xxox        xx                   x         x   xx    x x           xx x      x     
+                   o          xx          xx   x                x       x             x         x x 
+     xx   x    x   oo  x      xxxx      x        x    x       x            x x  x       x x         
+   x    x      x   xo x x       x xxx     x  x       x xx   x    x x x          x      x       x x  
+x   x xx  x  x  x  xooooooo    x           x  x                     x  x x  x xx  x   x xx xx      x
+           x        x    xoo                  x           x  x   x             x xx    x     x      
+      x x   x    xx   x  xxoooooooo  x       x     x                   x     x          x  xxx      
+    x          xx      x x   x   xoooooooooooox         xx   x x xx  x  x   x    x      x x  x xx   
+               x   x       x   x x   x  x xxxox      x x  x x x   x    x   x  x    x xx x          x
+        x x xx                x     x    x xxo    x     x     x       x   x   xx x    x x     x    x
+xx        x x       x   x  xx         x x  x o           xx  x   x           x x xx          x  x x 
+ x                     x         x   x   x   o  x  x x x                 xxx     xx           x x   
+    x        x                    x  x    x  oooooox   xx x  x  x    x   x x     x     x   x    x   
+      x x  x       x   x      xx       x       xxxo    x x     x   x    x             x       x x   
+x   x  x   xx                      xx         x x oo x     x                 xx          x   x    x 
+   xx     x x     x   x      x   x           xx x xo  x   x x    xx  x          x                 xx
+  x    x    x           x      x   x          xx   oo    x     xx       x  x               xx   x   
+x     x     x        x   x     x xx x        x     xoo  xx  x   xx       xx         x x  x     x  x 
+   x x       x     x           x      xx     xx x   xo       xx  xxxxx      x x             xx   x  
+x       x      xx             x  x          x        o   x x  x      x    x  x    x    x       x    
+x        x    x xx x  xx     x x x    x x    x x    xoo  x       x    x x         x x  x   xx    x  
+x        xx     x                 xx   x           x xo   x               x x    xx   x             
+              x x     xxx  x                x     x x ox        x    x  x x   xx x                 x
+ xx       x   x          x  xx x         x  x    xxx  ox   x  x x         x   x        x xx x  x  xx
+x  x      x        x     xx         xx       xx     x o      x x  x xx x       x     xxx            
+     x  x  xx  x   x  xx              x             x oooooooooo  x  x x   x x               x      
+     x xxx    xx          x     x  x x   xx             x x x xoooo                  x          xx  
+x x         x xxx     xx          x            xx  xx            xooo   xx      x          x        
+x     x        x  x x x    x  x       x  x          x          x  xxo        x      x x  x      x   
+  x x x    x    x x          x x  x x x  xx    xx     xxx   x x  x  ooooo   x         xx x   x  x   
+   x  x     x      x x  x   x    x     x   x   x      x xx   xx        xooooo  x    x   x      xx   
+    x        x   x x     x x     xx   x        xx x x   x            x xx  xo x x         x      x  
+ x    x   x    xx  x       xxx xx   x   xx    x       x        x     x   xxxoo     xx          x x  
+   xxxx x            x    x               x    x             x  x    x xx   xox    xx     x x  x x  
+   x    x   x x     x        x x         x   x             x  x x       x   xo   x   x  x  x x      
+   x xx     x           x   x          x           x    x      x x          xoo x    x      x  x   x
+       xxx  x         x     xx   xxx       x x  x xx    xx   x      x  x     xooo    x  x   x    x  
+     x                       x x    x                        x   x          x  xoooooooo     x   x  
+         x     x  x   xxx      x                   x          xx       x   x   x  x x xo x x xxx  x 
+        xx   x     x         xx   x   x   x  x    x       x       x     xxxx         xxoooo   xx   x
+    xx x    x x     x x   x x x             x     x    xx        x     x xx   x      xx  xooox      
+x           xx x  x  x  xx   xx      x   x      x  x    x x x x      x           x  x x    xoooooooB

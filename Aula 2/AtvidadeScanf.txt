@@ -1,0 +1,64 @@
+#include <stdio.h>
+#include <stdbool.h>
+
+int main () 
+{
+
+    int resposta;
+    int varint = 4 ;               //"%d"
+    float varfloat = 4;          //"%f"
+    double vardouble = 8;        //"%lf"
+    char varchar = '1';            //"%c"
+    bool varbool = 1;           //"%d"
+    long varlong = 8;              //"%d"
+    unsigned int varunsigned = 4; //"%u" "%d"
+    long long varlonglong = 8;     //"%ld"
+    short varshort = 2;            //"%d"
+
+    printf("\n Qual o tamanho de uma variavel do tipo Int?\n");
+    scanf("%d", &resposta);
+    printf("\n Voce respondeu: %d", resposta);
+    printf("\n A resposta correta eh: %d\n", varint);
+
+    printf("\n Qual o tamanho de uma variavel do tipo Long Int?\n");
+    scanf("%d", &resposta);
+    printf("\n Voce respondeu: %d", resposta);
+    printf("\n A resposta correta eh: %d\n", varlong);  
+
+    printf("\n Qual o tamanho de uma variavel do tipo Short Int?\n");
+    scanf("%d", &resposta);
+    printf("\n Voce respondeu: %d", resposta);
+    printf("\n A resposta correta eh: %d\n", varshort);   
+
+    printf("\n Qual o tamanho de uma variavel do tipo Long Long?\n");
+    scanf("%d", &resposta);
+    printf("\n Voce respondeu: %d", resposta);
+    printf("\n A resposta correta eh: %ld\n", varlonglong); 
+
+    printf("\n Qual o tamanho de uma variavel do tipo Float?\n");
+    scanf("%d", &resposta);
+    printf("\n Voce respondeu: %d", resposta);
+    printf("\n A resposta correta eh: %f\n", varfloat); 
+
+    printf("\n Qual o tamanho de uma variavel do tipo Double?\n");
+    scanf("%d", &resposta);
+    printf("\n Voce respondeu: %d", resposta);
+    printf("\n A resposta correta eh: %lf\n", vardouble); 
+
+    printf("\n Qual o tamanho de uma variavel do tipo Char?\n");
+    scanf("%d", &resposta);
+    printf("\n Voce respondeu: %d", resposta);
+    printf("\n A resposta correta eh: %c\n", varchar); 
+
+    printf("\n Qual o tamanho de uma variavel do tipo Bool?\n");
+    scanf("%d", &resposta);
+    printf("\n Voce respondeu: %d", resposta);
+    printf("\n A resposta correta eh: %d\n", varbool); 
+
+    printf("\n Qual o tamanho de uma variavel do tipo Unsigned?\n");
+    scanf("%d", &resposta);
+    printf("\n Voce respondeu: %d", resposta);
+    printf("\n A resposta correta eh: %d\n", varunsigned); 
+
+    return 0;
+}
